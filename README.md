@@ -7,5 +7,7 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3333](http://localhost:3333) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### `yarn typeorm [args]`
+
+Executes different actions on database based on arguments.<br />
+Execute without args to see the options.
